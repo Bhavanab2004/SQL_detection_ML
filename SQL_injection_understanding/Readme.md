@@ -6,6 +6,7 @@ execute the query and then add the db structure ,insert the values
 create a query to add the username and password and close the connection (conn.close() )
 run the file -> enter '' oR '1'=='1' -- in input -> database created 
 
+
 Enter 
 username ='' OR '1'=='1' --' 
 where '' represents empty space and 1==1 is always true , -- comments the rest of the statement 
